@@ -1,0 +1,1 @@
+print("make it your self you lazy nigga")
